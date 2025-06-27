@@ -1,6 +1,6 @@
 # Elevate-Labs-Internship-Task-4
 
-# Task 3: SQL for Data Analysis
+# Task 4: SQL for Data Analysis
 
 ## 📌 Objective
 This task is part of a Data Analyst Internship and focuses on using SQL queries to extract and analyze data from a PostgreSQL database.
